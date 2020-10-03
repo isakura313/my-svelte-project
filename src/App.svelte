@@ -6,7 +6,7 @@
     function addTask(){
         todos = [{
             task:task,
-            status: "urge",
+
 
         }, ...todos];
         task = "";
